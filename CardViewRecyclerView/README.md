@@ -14,6 +14,4 @@ This app was made to learn implementing cardviews along with recyclerviews.
 <img src="https://github.com/devlovepreet/Android-Apps/blob/master/CardViewRecyclerView/screenshots/screenshots_04.png" width="350">
 
 
-
-<img src="https://github.com/devlovepreet/Android-Apps/blob/master/CardViewRecyclerView/screenshots/screenshots_06.png" width="350">
 </p>
