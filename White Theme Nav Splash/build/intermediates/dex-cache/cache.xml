@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/dc56d14fa7629f5f2086905918924cc9045e6efe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_51f9d6dbc6b9f3149d680be7027fd4c9cecc349f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/5253240c3f4b35c39a0af3a399a3d919b397d114/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_f1ad204ec30342defb63a4e77ea35d4634e2e4aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/40681427681aedda62d77a61563506b417b59f56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_0cca273f0d4fbf133e089608ebb43acba512b435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/816bd3fb9191974a5ffbe2f0bbc7ec39c6f7c5bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_6fdcb16ce9fd7291c89a9e1b3fbaebcba0ea0070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/0ad784f5ccbf8d9aee2240940bf123fb348b2ade/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_6354a56c6331ef91224286de1e4c2b2555a1ace3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e5d58c25d448346d1435c60ad61b50aa13313db">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_13f334fc2f6dcf5dc0557b474adfbd87fd8a7b79/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/4dade6cbd3d258cde341569050251dbfee8e9224/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce0f3de11781e1ee758cba483871b598c9d4931">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_cbf4bf863062a7f5608c800f77658f228a76579b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/83c815fc49eb7dcea02e2263af220e91b8f83d1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_47ab3c7d1cb8e9027e80f5d6e64de47c0652d7a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/2934dcd37dc755c58a64b0d66ba95da453bbe0e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_7351e21f82197ed2733ca3e0fb3db01aa6976277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/7478f45b369949bce7ab173255b9d6c8c4358060/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_2a479c576cbe849c968121d2a22c134e34a168a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/4ecf3528724d8aacb2cb765555bb7819cc1dbd34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_ff4b0948eacaa0c2efdcae53d36b0b3cf4e5e775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/c7b469b7a48425630efc210594630c918ad77ede/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_1ddb48d2916a0d872a121f2371b29ab4f2ca4e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/b4eced1f664502459426fb2c722834771fad5f75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_dda506e3fe14d9ad92c8c924b5e430cce8fed646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/1b15c9fba1d8ec5d0f49a2867c5961cfecc7635f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_f84939c9cad4753b14606729a3174f859ebc421c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/938e74ce2dde16783f616924f8b9a627ed464f4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_be56ed836882fde2c3482d70c27d3db718b597cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/17daaa564f7a03723b6e868ef2eec34adda3bccc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_d2534060907c4242b8984b4a3c9ff250e32c85e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/d68aa8a0b102ef60b1eda8d489c13fa088d60a15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_e25901b3c04f744b832cf7c5e2690e96a3911951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/c8ce1bd63b11098d14a4f594af5bfbe0aabf90c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_ba5cd47591bb9eb367a18a5194531d2de477bda0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/9abbbd3f10d13c12d437fe837716758464748006/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_9c79ac32ba839ddb96ad05d3b9fd7e9cb2bda0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/570681b52bc83214a12e621d6fe824e2946d9331/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_4a67813726dcef79751694bd96d22f486750706f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/8212e54bb2e53d5cec6879af12e6498bc5ac6013/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_3bc7665128edc10ffb90d78d2ef88bace1742d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/42d2e177cf102fc07d04c095ad2d56de04f69bfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_5038f7bde41a1d17e272a3c65f2eae0a3a2f0042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/68e3e6311445ba6a3cbbe9a44df66f980fa35bb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_420fcd65db8fc13b9cb012119281ef58c7f9be1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/605824ae2775f13830310b42ad2fc2d24e2a043c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_d5115dddcd050c700fd657cf43ea671718f3ff93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta5/constraint-layout-solver-1.0.0-beta5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0dad5e4fc720f478ce8b5f6edf76a932d9b886">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta5_132c42dd237c13ed263765957421ddc951ca491f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/43842e0f5d0cefe6c63920cd36fc2fbebbe2df64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_7b300b7fddfc2d7b678c65120851bcf20f9aae5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_846dd49486a2319031ea356906d64487513cb946/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/.android/build-cache/5e65ef75ab186c05c259a2cf97b6d0ac80405169/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/classes_0dd56def215af5f26c3d54ee90dc71894ce381a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dev_lovepreet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/dev_lovepreet/Documents/NSS-DTU-App/NSSDTU/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_9006d3c3bc274493f424391e2b995ca95c2b3d1e.jar" />
+    </item>
+
+</items>
